@@ -26,5 +26,4 @@ For the future if all goes well, I will add an AI to play against.
 **Initial sketch**
 
 https://imgur.com/g5TAAdE
-# tic-tac-toe-project
 # tic-tac-toe-Azam
